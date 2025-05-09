@@ -46,3 +46,5 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
+
+<p>“年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日，也可理解为“年年有例”，即每年都有这样的庆祝活动.2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录</p>
