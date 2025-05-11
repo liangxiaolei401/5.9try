@@ -10,7 +10,17 @@ credits: true
 
 {% include feature/jumbotron.html objectid="n801" %}
 
-## 各镇年例
+## 电白区
+
+### 电白区地理位置
+
+电白区位于广东省西部，粤西地区的东部，茂名市的东南部，介于东经110°54′—111°29′，北纬21°22′—21°59′之间。其地理位置优越，东西宽约50千米，南北长约55千米，陆地面积2128平方千米，40米等深线海域面积约4300平方千米。
+
+电白区东部交界阳江市阳西县，东北部毗邻阳春市，北部连接高州市，西部紧靠茂南区和湛江吴川市，南部濒临南海
+
+### 电白区行政区域划分
+
+目前电白区共有19个镇（马踏镇，岭门镇，树仔镇，麻岗镇，旦场镇，林头镇，观珠镇，霞洞镇，黄岭镇，那霍镇，沙琅镇，罗坑镇，望夫镇，沙院镇，小良镇，坡心镇）和4个街道（陈村街道，水东街道，南海街道，高地街道）
 
 This site is generated using [电白区域地图](https://collectionbuilding.github.io/gh/), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
