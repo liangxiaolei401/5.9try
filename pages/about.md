@@ -10,9 +10,9 @@ credits: true
 
 {% include feature/jumbotron.html objectid="n801" %}
 
-## About CollectionBuilder-Sheets
+## 各镇年例
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+This site is generated using [CollectionBuilder-Sheets电白区域地图]([https://github.com/CollectionBuilder/collectionbuilder-sheets](https://maps.app.goo.gl/ytmVTGNewUdumyGJ9)), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
 This enables active collaboration to prototype collections with minimal set up.
