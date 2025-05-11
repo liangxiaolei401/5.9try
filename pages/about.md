@@ -12,7 +12,7 @@ credits: true
 
 ## 各镇年例
 
-This site is generated using [电白区域地图]([{% include feature/jumbotron.html objectid="n2025051101" %}), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+This site is generated using [电白区域地图](https://collectionbuilding.github.io/gh/), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
 This enables active collaboration to prototype collections with minimal set up.
