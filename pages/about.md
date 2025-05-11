@@ -1,7 +1,7 @@
 ---
-title: 电白区各镇年例一览
-layout: 电白区各镇年例一览
-permalink: /电白区各镇年例一览.html
+title: about
+layout: about
+permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
