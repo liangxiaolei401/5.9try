@@ -22,6 +22,8 @@ credits: true
 
 目前电白区共有19个镇（马踏镇，岭门镇，树仔镇，麻岗镇，旦场镇，林头镇，观珠镇，霞洞镇，黄岭镇，那霍镇，沙琅镇，罗坑镇，望夫镇，沙院镇，小良镇，坡心镇）和4个街道（陈村街道，水东街道，南海街道，高地街道）
 
+<img id="2025051101" />
+
 This site is generated using [电白区域地图](https://collectionbuilding.github.io/gh/), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
 {% include feature/jumbotron.html objectid="n801" %}
