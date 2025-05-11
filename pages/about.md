@@ -12,7 +12,7 @@ credits: true
 
 ## 各镇年例
 
-This site is generated using [电白区域地图]（[<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d474623.53776673466!2d110.8301735796949!3d21.663997856068203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36ab5881463ad5a9%3A0x6d6c41f5c23670c5!2sDianbai%20District%2C%20Maoming%2C%20Guangdong%20Province%2C%20China!5e0!3m2!1sen!2shk!4v1746938041241!5m2!1sen!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>]）([https://github.com/CollectionBuilder/collectionbuilder-sheets](https://maps.app.goo.gl/ytmVTGNewUdumyGJ9)), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+This site is generated using [电白区域地图]([https://maps.app.goo.gl/v5A6D6aU5Ar6bk8S7]), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
 This enables active collaboration to prototype collections with minimal set up.
