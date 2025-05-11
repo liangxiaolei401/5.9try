@@ -1,14 +1,14 @@
 ---
-title: About
-layout: about
-permalink: /about.html
+title: 电白区各镇年例一览
+layout: 电白区各镇年例一览
+permalink: /电白区各镇年例一览.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="n801" %}
 
 ## About CollectionBuilder-Sheets
 
