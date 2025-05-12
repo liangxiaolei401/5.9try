@@ -2,7 +2,7 @@
 title: about
 layout: about
 permalink: /about.html
-# include CollectionBuilder info at bottom
+include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
@@ -22,8 +22,4 @@ credits: true
 
 目前电白区共有19个镇（马踏镇，岭门镇，树仔镇，麻岗镇，旦场镇，林头镇，观珠镇，霞洞镇，黄岭镇，那霍镇，沙琅镇，罗坑镇，望夫镇，沙院镇，小良镇，坡心镇）和4个街道（陈村街道，水东街道，南海街道，高地街道）
 
-<img id="2025051101" />
-
-{% include feature/jumbotron.html objectid="n801" %}
-
-<p>“年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日，也可理解为“年年有例”，即每年都有这样的庆祝活动.2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录</p>
+“年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日，也可理解为“年年有例”，即每年都有这样的庆祝活动.2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录
