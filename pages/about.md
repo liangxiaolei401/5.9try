@@ -1,5 +1,5 @@
 ---
-title: 关于电白
+title: about
 layout: about
 permalink: /about.html
 credits: true
