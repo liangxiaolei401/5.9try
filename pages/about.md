@@ -3,7 +3,13 @@ title: about
 layout: about
 permalink: /about.html
 ---
-
+<div id="page-banner" class="container">
+    <div class="container">
+    <div class="row align-items-center">
+        <div id="title" class="col-12 p-2 text-center">
+            <h3><a class="text-dark font-weight-normal bg-light bg-opacity-50" href="/hki-stories/" >圍頭與客家   <br/> <small>Waitau and Hakka</small>  </a></h3>	 
+            
+        </div>
 {% include feature/jumbotron.html objectid="n801" %}
 
 ## 关于电白
