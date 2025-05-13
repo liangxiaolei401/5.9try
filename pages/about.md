@@ -3,7 +3,7 @@ title: about
 layout: about
 permalink: /about.html
 ---
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5MCE9JJSH5"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=n801"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
