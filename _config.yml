@@ -20,10 +20,8 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: <div id="page-banner" class="container">
-        <div text-center">
-            <h3><a class="text-dark font-weight-normal bg-light bg-opacity-50" href="/hki-stories/" >电白年例一览   <br/> <small>An Overview of Dianbai Nianli</small>  </a></h3>	 
- </div>
+title: <div text-center">
+            <h3><a class="text-dark font-weight-normal bg-light bg-opacity-50" href="/hki-stories/" >电白年例一览   <br/> <small>An Overview of Dianbai Nianli</small>  </a></h3></div>
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: 体验近几年电白年例的多彩文化盛宴 Experience the Colorful Cultural Feast of Dianbai Nianli in Recent Years 
 # description appears in meta tags and other locations
