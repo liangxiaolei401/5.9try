@@ -3,11 +3,21 @@ title: about
 layout: about
 permalink: /about.html
 ---
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5MCE9JJSH5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5MCE9JJSH5', {
+    'anonymize_ip': true
+  });
+</script>
+
 <div id="page-banner" class="container">
     <div class="container">
     <div class="row align-items-center">
         <div id="title" class="col-12 p-2 text-center">
-            <h3><a class="text-dark font-weight-normal bg-light bg-opacity-50" href="/hki-stories/" >圍頭與客家   <br/> <small>Waitau and Hakka</small>  </a></h3>	 
+            <h3><a class="text-dark font-weight-normal bg-light bg-opacity-50" href="/hki-stories/" >电白年例一览   <br/> <small>An Overview of Dianbai Nianli</small>  </a></h3>	 
             
         </div>
 {% include feature/jumbotron.html objectid="n801" %}
