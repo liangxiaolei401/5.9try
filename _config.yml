@@ -24,7 +24,7 @@ title: <div id="page-banner" class="container">
     <div class="container">
     <div class="row align-items-center">
         <div id="title" class="col-12 p-2 text-center">
-            <h3><a class="text-dark font-weight-normal bg-light bg-opacity-50" href="/hki-stories/" >电白年例一览   <br/> <small>An Overview of Dianbai Nianli</small>  </a></h3>	 
+            <h3>电白年例一览   <br/> <small>An Overview of Dianbai Nianli</small>  </a></h3>	 
  </div>
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: 体验近几年电白年例的多彩文化盛宴 Experience the Colorful Cultural Feast of Dianbai Nianli in Recent Years 
