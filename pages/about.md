@@ -2,8 +2,6 @@
 title: about
 layout: about
 permalink: /about.html
-credits: true
-# Edit the markdown on in this file to describe your collection
 ---
 
 {% include feature/jumbotron.html objectid="n801" %}
