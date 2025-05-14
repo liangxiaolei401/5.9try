@@ -32,6 +32,10 @@ permalink: /about.html
     <source src="/objects/n1501.mp4" type="video/mp4">
     您的浏览器不支持 HTML5 视频播放器。
 </video>
+
+<figure>
+    <img src="/objects/n801.jpg" alt="示例图片" style="width: 500px; height: auto;">
+</figure>
 #### 粤剧
 
 #### 歌舞剧
