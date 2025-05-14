@@ -23,3 +23,17 @@ permalink: /about.html
 冼夫人信仰说：年例也与对冼夫人的信仰有关。冼夫人是维护国家统一和民族团结的重要象征，她“我事三代主，唯用一好心”的理念深入人心。年例期间，人们通过各种活动表达对冼夫人的敬仰和纪念，传承她的精神。
 
 综合衍化说：年例还可能是由元宵节、庙会、社祭、地方祖先纪念日等节日合并举办、综合衍生而来。它融合了多种节庆活动的特点，形成了独特的年例文化。
+### 习俗
+#### 宴席
+<img src="/objects/n801.jpg" alt="示例图片" style="width: 500px; height: auto;">
+#### 走公
+<video id="n1501" controls>
+    <source src="/objects/n1501.mp4" type="video/mp4">
+    您的浏览器不支持 HTML5 视频播放器。
+</video>
+#### 粤剧
+
+#### 歌舞剧
+
+#### 游神
+<img src="/objects/n1902.jpg" alt="示例图片" style="width: 500px; height: auto;">
