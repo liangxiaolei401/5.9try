@@ -25,10 +25,10 @@ permalink: /about.html
 综合衍化说：年例还可能是由元宵节、庙会、社祭、地方祖先纪念日等节日合并举办、综合衍生而来。它融合了多种节庆活动的特点，形成了独特的年例文化。
 ### 习俗
 #### 宴席
-objects/n801.jpg
-
-<img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg" alt="宴席" id="n801">
 <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801">
+<div style="text-align: center;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;">
+</div>
 #### 走公
 
 #### 粤剧
