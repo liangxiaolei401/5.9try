@@ -26,6 +26,7 @@ permalink: /about.html
 ### 习俗
 #### 宴席
 <img src="/objects/n801.jpg" alt="示例图片" style="width: 500px; height: auto;">
+(/objects/n801.jpg)
 #### 走公
 <video id="n1501" controls>
     <source src="/objects/n1501.mp4" type="video/mp4">
