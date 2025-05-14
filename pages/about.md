@@ -26,7 +26,8 @@ permalink: /about.html
 ### 习俗
 #### 宴席
 objects/n801.jpg
-https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg
+
+<img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg" alt="宴席" id="n801">
 #### 走公
 
 #### 粤剧
