@@ -32,16 +32,16 @@ permalink: /about.html
 #### 走公
 n1702
 <div style="text-align: center;">
-  <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1702.jpg?raw=true" alt="走公" id="n1702" style="width: 50%;">
 </div>
+
 #### 游神
 n1902
 <div style="text-align: center;">
-  <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;">
 </div>
+
 #### 粤剧
 
 #### 歌舞剧
-
-#### 游神
 
