@@ -55,7 +55,11 @@ permalink: /about.html
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/006dea2fe774b25a9749f60ecc786505624f4b12/objects/n105.jpg?raw=true" alt="抢炮头" id="n105" style="width: 50%;">
 </div>
+
 #### 粤剧
+<div style="text-align: center;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/a53bb870fde95e0817aade3a90e159b5e21ba480/objects/n2025051503.jpg?raw=true" alt="粤剧" id="n105" style="width: 50%;">
+</div>
 
 #### 歌舞晚会
 <div style="text-align: center;">
