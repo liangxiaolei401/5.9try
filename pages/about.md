@@ -7,6 +7,9 @@ permalink: /about.html
 {% include feature/jumbotron.html objectid="n801" %}
 
 ## 关于电白
+<div style="text-align: center;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/8e1531b580d5fc053a7dc810b25bd9245ce3d51b/objects/n2025051501.jpg?raw=true" alt="电白" id="n2025051501" style="width: 50%;">
+</div>
 ### 地理位置
 电白区是广东省茂名市下辖的一个区，位于广东省西部，粤西地区的东部，茂名市的东南部。
 ### 地理方位
@@ -30,13 +33,11 @@ permalink: /about.html
 </div>
 
 #### 走公
-n1702
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1702.jpg?raw=true" alt="走公" id="n1702" style="width: 50%;">
 </div>
 
 #### 游神
-n1902
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;">
 </div>
