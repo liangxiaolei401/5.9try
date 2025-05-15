@@ -28,8 +28,17 @@ permalink: /about.html
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;">
 </div>
-#### 走公
 
+#### 走公
+n1702
+<div style="text-align: center;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;">
+</div>
+#### 游神
+n1902
+<div style="text-align: center;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;">
+</div>
 #### 粤剧
 
 #### 歌舞剧
