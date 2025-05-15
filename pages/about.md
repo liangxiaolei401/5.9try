@@ -17,6 +17,12 @@ permalink: /about.html
 截至2019年，电白区下辖南海街道、高地街道、水东街道、陈村街道、马踏镇、岭门镇、坡心镇、七迳镇、树仔镇、沙院镇、麻岗镇、旦场镇、小良镇、霞洞镇、观珠镇、沙琅镇、黄岭镇、望夫镇、罗坑镇、那霍镇、博贺镇、林头镇、电城镇。
 
 ## 关于年例
+<div style="text-align: center;">
+  <video controls style="width: 50%;">
+    <source src="https://github.com/liangxiaolei401/5.9try/blob/4bd266de179bebb4a25fc4bc42d34b167f9fedbc/objects/n1701.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 年例是粤西地区（茂名、湛江等地）极具地方特色的传统民俗活动，
 “年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日。也可理解为“年年有例”，即每年都有这样的庆祝活动，具有深厚的文化底蕴和丰富的活动形式。2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录。
 
