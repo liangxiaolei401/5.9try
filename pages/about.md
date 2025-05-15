@@ -48,5 +48,7 @@ permalink: /about.html
 
 #### 粤剧
 
-#### 歌舞剧
-
+#### 歌舞晚会
+<div style="text-align: center;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/dd5746b5335a64332096445ef012a21415d8fba6/objects/n2025051502.jpg
+?raw=true" alt="歌舞晚会" id="n2025051502" style="width: 50%;">
