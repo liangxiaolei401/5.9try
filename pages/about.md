@@ -42,6 +42,10 @@ permalink: /about.html
   <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;">
 </div>
 
+#### 抢炮头
+<div style="text-align: center;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/006dea2fe774b25a9749f60ecc786505624f4b12/objects/n105.jpg?raw=true" alt="抢炮头" id="n105" style="width: 50%;">
+
 #### 粤剧
 
 #### 歌舞剧
