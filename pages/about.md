@@ -40,7 +40,10 @@ permalink: /about.html
 
 #### 走公
 <div style="text-align: center;">
-  <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1702.jpg?raw=true" alt="走公" id="n1702" style="width: 50%;">
+  <video controls style="width: 50%;">
+    <source src="https://github.com/liangxiaolei401/5.9try/blob/77eb2d53177ecfb7892c26bc17d08cff59bb39a6/objects/n1501.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 #### 游神
