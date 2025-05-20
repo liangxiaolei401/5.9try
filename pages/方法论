@@ -4,7 +4,7 @@ layout: about
 permalink: /方法论.html
 ---
 
-数据收集的方法Data Collection Methods<br>
+数据收集的方法Data Collection Methods<br><br>
 <br>文献综述Literature Review<br>
 本人通过查找相关文献、文章和报告来了解有关年例的内容。主要是通过中国知网查找文献，通过搜狐网查找文章。将提及次数高的言论和本人对家乡年例的了解做出数据的筛选。<br>
 I have conducted research on the Nianli by searching for relevant literature, articles, and reports. I primarily used CNKI (China National Knowledge Infrastructure) to find literature and Sohu website to search for articles. Based on the research, I have filtered the data by identifying the most frequently mentioned opinions and combining them with my own understanding of the Nianli in my hometown.<br>
@@ -14,4 +14,18 @@ I have published a survey questionnaire through Tencent Document (<https://wj.qq
 <img src="objects/n2025051801.jpg" alt="示例图片" style="width: 500px; height: auto;"><br>
 <br>采访法Interview<br>
 本人通过线上采访电白地区的公民，从他们口中了解年例的一些习俗和看法。<br>
-I conducted online interviews with citizens from the Dianbai area to understand some of the customs and their views on the Nianli through their own words.<br><br><br>
+I conducted online interviews with citizens from the Dianbai area to understand some of the customs and their views on the Nianli through their own words.<br><br>
+社交媒体Social Media<br>
+本人通过社交媒体抖音获取数据，在搜索了大量的图片和视频后，将获得同意的材料运用到此网站上。<br>
+I obtained materials through the social media platform Douyin. After searching for a large number of pictures and videos, I used the materials that had been granted permission from posters on this website.<br><br><br>
+数据组织过程Data Organization Process<br><br>
+分类Categorization<br>
+Data from different sources (literature, surveys, interviews, observations) were categorized into themes and sub-themes based on the research questions and objectives.
+编码Coding<br>
+Qualitative data from interviews and open-ended survey questions were coded using thematic analysis. We used software tools like [NVivo, Atlas.ti] to assist in the coding process.
+Quantitative Data Analysis: Survey responses were cleaned and analyzed using statistical software such as [SPSS, R]. Descriptive statistics, correlations, and regression analyses were performed to identify patterns and relationships.
+整合Integration<br>
+Findings from different data sources were integrated to provide a comprehensive understanding of the research topic. Triangulation was used to validate findings and ensure reliability.
+
+
+
