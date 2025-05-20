@@ -4,7 +4,7 @@ layout: about
 permalink: /方法论.html
 ---
 
-数据收集的方法Data Collection Methods<br><br><br>
+一、数据收集的方法Data Collection Methods<br><br><br>
 文献综述Literature Review<br>
 本人通过查找相关文献、文章和报告来了解有关年例的内容。主要是通过中国知网查找文献，通过搜狐网查找文章。将提及次数高的言论和本人对家乡年例的了解做出数据的筛选。<br>
 I have conducted research on the Nianli by searching for relevant literature, articles, and reports. I primarily used CNKI (China National Knowledge Infrastructure) to find literature and Sohu website to search for articles. Based on the research, I have filtered the data by identifying the most frequently mentioned opinions and combining them with my own understanding of the Nianli in my hometown.<br>
@@ -18,7 +18,7 @@ I conducted online interviews with citizens from the Dianbai area to understand 
 社交媒体Social Media<br>
 抖音是比较贴近生活的社交媒体，在抖音上可以获取大量有关于年例的材料。因此本人主要通过社交媒体“抖音”获取数据，以镇为单位搜集每个镇的年例习俗，将年例习俗并且经创作者同意的数据汇集到csv中制成表格的原始材料。<br>
 Douyin is a social media platform that is closely related to daily life. It can provide a large amount of materials about the Nianli. Therefore, I mainly collect data through the social media platform "Douyin", gathering the Nianli customs of each town. I have compiled the Nianli customs and the data that have been agreed upon by the creators into a CSV table as the original material.<br><br><br>
-数据组织过程Data Organization Process<br><br><br>
+二、数据组织过程Data Organization Process<br><br><br>
 分类Categorization<br>
 将收集到的资料按照地区、经纬度、时间，习俗等整理成了csv表格。在网页中，我将页面分为八个页面，分别是主页、浏览页、介绍页、地图页、可视化图表页、参考文献页、方法论页、洞察页。<br>
 I have organized the collected materials into a CSV table according to location, latitude and longitude, date, and customs. On the website, I have divided the pages into eight sections, namely the Home Page, Browse Page, Introduction Page, Map Page, Visualization Page, References Page, Methodology Page, and Insights Page.<br>
