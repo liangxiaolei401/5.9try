@@ -67,7 +67,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 #### 粤剧 Cantonese Opera
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/a53bb870fde95e0817aade3a90e159b5e21ba480/objects/n2025051503.jpg?raw=true" alt="粤剧" id="n105" style="width: 50%;">
-<br>2024年电白区观珠镇木师村三太庙年例粤剧海报<br>2024 Nianli Yue Opera Poster for the San Tai Temple in Mushi Village, Guanzhu Zhen, Dianbai District</div><br>
+<br>2024年观珠镇木师村三太庙年例粤剧海报<br>2024 Nianli Yue Opera Poster for the San Tai Temple in Mushi Village, Guanzhu Zhen</div><br>
 年例期间，村里会集体筹钱邀请戏班，或者由好心人捐款邀请戏班。戏台会建在庙前的空地上，一般会有好几个晚上进行粤剧演出，村民们拿好凳子在戏台前观看。这不仅是娱乐大众，也传承了粤剧文化，营造出浓厚的节日氛围。
 <br>During the Nianli festival, the villagers will collectively raise money to invite an opera troupe, or it will be funded by generous donations from kind-hearted people. The stage is usually built on the open space in front of the temple, and there are generally several nights of Yueju (Cantonese opera) performances. Villagers bring their stools to sit in front of the stage and watch the shows. It is not only a way to entertain people but also a means to preserve the Yueju culture and create a festive atmosphere.
 
