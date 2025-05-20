@@ -9,6 +9,7 @@ permalink: /about.html
 ## 关于电白 About Dianbai
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/8e1531b580d5fc053a7dc810b25bd9245ce3d51b/objects/n2025051501.jpg?raw=true" alt="电白" id="n2025051501" style="width: 50%;">
+电白区地图Dianbai District Map
 </div>
 ### 地理位置
 电白区是广东省茂名市下辖的一个区，位于广东省西部，粤西地区的东部，茂名市的东南部。
