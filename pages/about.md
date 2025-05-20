@@ -12,8 +12,8 @@ permalink: /about.html
 电白区地图<br>Dianbai District Map
 </div>
 ### 地理位置
-电白区是广东省茂名市下辖的一个区，位于广东省西部，粤西地区的东部，茂名市的东南部。
-<br>Dianbai District is a district under the jurisdiction of Maoming City in Guangdong Province. It is located in the southeast of Maoming City, in the eastern part of the Western Guangdong region, and in the western part of Guangdong Province.
+<a href="https://zh.wikipedia.org/wiki/%E7%94%B5%E7%99%BD%E5%8C%BA" target="_blank">电白区</a>是广东省茂名市下辖的一个区，位于广东省西部，粤西地区的东部，茂名市的东南部。
+<br><a href="https://zh.wikipedia.org/wiki/%E7%94%B5%E7%99%BD%E5%8C%BA" target="_blank">Dianbai District</a> is a district under the jurisdiction of Maoming City in Guangdong Province. It is located in the southeast of Maoming City, in the eastern part of the Western Guangdong region, and in the western part of Guangdong Province.
 ### 地理方位
 电白区东部交界阳江市阳西县，东北部毗邻阳春市，北部连接高州市，西部紧靠茂南区和湛江吴川市，南部濒临南海
 截至2019年，电白区下辖南海街道、高地街道、水东街道、陈村街道、马踏镇、岭门镇、坡心镇、七迳镇、树仔镇、沙院镇、麻岗镇、旦场镇、小良镇、霞洞镇、观珠镇、沙琅镇、黄岭镇、望夫镇、罗坑镇、那霍镇、博贺镇、林头镇、电城镇。
