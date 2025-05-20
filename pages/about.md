@@ -28,9 +28,9 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
   </video><br>
   电白陈村游神<br>The Deity Procession in Chencun, Dianbai
 </div><br>
-<a href="https://zh.wikipedia.org/wiki/%E7%94%B5%E7%99%BD%E5%8C%BA" target="_blank"></a>是粤西地区（茂名、湛江等地）极具地方特色的传统民俗活动，
+<a href="https://baike.baidu.com/item/%E5%B9%B4%E4%BE%8B/481915" target="_blank">年例</a>是粤西地区（茂名、湛江等地）极具地方特色的传统民俗活动，
 “年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日。也可理解为“年年有例”，即每年都有这样的庆祝活动，具有深厚的文化底蕴和丰富的活动形式。2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录。
-<br>The<a href="https://zh.wikipedia.org/wiki/%E7%94%B5%E7%99%BD%E5%8C%BA" target="_blank">Nianli</a> is a traditional folk activity with strong local characteristics in the Western Guangdong region (including Maoming, Zhanjiang, and other places).
+<br>The<a href="https://baike.baidu.com/item/%E5%B9%B4%E4%BE%8B/481915" target="_blank">Nianli</a> is a traditional folk activity with strong local characteristics in the Western Guangdong region (including Maoming, Zhanjiang, and other places).
 “Nianli” is a unique traditional festival in the Western Guangdong region (including Maoming, Zhanjiang, and other places in Guangdong). It can also be understood as “a celebration held every year,” which means there is such a celebration every year. It has a profound cultural connotation and rich forms of activities. On February 21, 2012, “Maoming Nianli” was approved by the People’s Government of Guangdong Province and announced as the fourth batch of provincial intangible cultural heritage in Guangdong Province.
 
 ### 习俗 Customs
