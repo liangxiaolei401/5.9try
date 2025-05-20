@@ -8,7 +8,7 @@ permalink: /about.html
 
 ## 关于电白 About Dianbai
 <div style="text-align: center;">
-  <img src="https://github.com/liangxiaolei401/5.9try/blob/8e1531b580d5fc053a7dc810b25bd9245ce3d51b/objects/n2025051501.jpg?raw=true" alt="电白" id="n2025051501" style="width: 50%;">
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/8e1531b580d5fc053a7dc810b25bd9245ce3d51b/objects/n2025051501.jpg?raw=true" alt="电白" id="n2025051501" style="width: 50%;"><br>
 电白区地图Dianbai District Map
 </div>
 ### 地理位置
