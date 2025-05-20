@@ -22,5 +22,6 @@ Douyin is a social media platform that is closely related to daily life. It can 
 分类Categorization<br>
 将收集到的资料按照地区、经纬度、时间，习俗等整理成了csv表格。在网页中，我将页面分为八个页面，分别是主页、浏览页、介绍页、地图页、可视化图表页、参考文献页、方法论页、洞察页。<br>
 I have organized the collected materials into a CSV table according to location, latitude and longitude, date, and customs. On the website, I have divided the pages into eight sections, namely the Home Page, Browse Page, Introduction Page, Map Page, Visualization Page, References Page, Methodology Page, and Insights Page.<br>
-编码Coding<br>
-我利用https://collectionbuilder.github.io/进行编码，将制作好的csv表格上传到网站上再进行详细编码。
+<br>编码Coding<br>
+最后，我利用https://collectionbuilder.github.io/进行编码，将制作好的csv表格上传到网站上再进行详细编码得到最终成果。
+Finally, I used <https://collectionbuilder.github.io/> to encode the data. I uploaded the prepared CSV table to the website and then performed detailed encoding to obtain the final result.
