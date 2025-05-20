@@ -16,16 +16,11 @@ I have published a survey questionnaire through Tencent Document (<https://wj.qq
 本人通过线上采访电白地区的公民，从他们口中了解年例的一些习俗和看法。<br>
 I conducted online interviews with citizens from the Dianbai area to understand some of the customs and their views on the Nianli through their own words.<br><br>
 社交媒体Social Media<br>
-本人通过社交媒体抖音获取数据，在搜索了大量的图片和视频后，将获得同意的材料运用到此网站上。<br>
-I obtained materials through the social media platform Douyin. After searching for a large number of pictures and videos, I used the materials that had been granted permission from posters on this website.<br><br><br>
-数据组织过程Data Organization Process<br><br>
+抖音是比较贴近生活的社交媒体，在抖音上可以获取大量有关于年例的材料。因此本人主要通过社交媒体“抖音”获取数据，以镇为单位搜集每个镇的年例习俗，将年例习俗并且经创作者同意的数据汇集到csv中制成表格的原始材料。<br>
+Douyin is a social media platform that is closely related to daily life. It can provide a large amount of materials about the Nianli. Therefore, I mainly collect data through the social media platform "Douyin", gathering the Nianli customs of each town. I have compiled the Nianli customs and the data that have been agreed upon by the creators into a CSV table as the original material.<br><br><br>
+数据组织过程Data Organization Process<br><br><br>
 分类Categorization<br>
-Data from different sources (literature, surveys, interviews, observations) were categorized into themes and sub-themes based on the research questions and objectives.
+将收集到的资料按照地区、经纬度、时间，习俗等整理成了csv表格。在网页中，我将页面分为八个页面，分别是主页、浏览页、介绍页、地图页、可视化图表页、参考文献页、方法论页、洞察页。<br>
+I have organized the collected materials into a CSV table according to location, latitude and longitude, date, and customs. On the website, I have divided the pages into eight sections, namely the Home Page, Browse Page, Introduction Page, Map Page, Visualization Page, References Page, Methodology Page, and Insights Page.<br>
 编码Coding<br>
-Qualitative data from interviews and open-ended survey questions were coded using thematic analysis. We used software tools like [NVivo, Atlas.ti] to assist in the coding process.
-Quantitative Data Analysis: Survey responses were cleaned and analyzed using statistical software such as [SPSS, R]. Descriptive statistics, correlations, and regression analyses were performed to identify patterns and relationships.
-整合Integration<br>
-Findings from different data sources were integrated to provide a comprehensive understanding of the research topic. Triangulation was used to validate findings and ensure reliability.
-
-
-
+我利用https://collectionbuilder.github.io/进行编码，将制作好的csv表格上传到网站上再进行详细编码。
