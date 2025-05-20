@@ -26,8 +26,8 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
     <source src="https://github.com/liangxiaolei401/5.9try/blob/4bd266de179bebb4a25fc4bc42d34b167f9fedbc/objects/n1701.mp4?raw=true" type="video/mp4">
     Your browser does not support the video tag.
   </video><br>
-  电白陈村游神The Deity Procession in Chencun, Dianbai<br>
-</div>
+  电白陈村游神<br>The Deity Procession in Chencun, Dianbai
+</div><br>
 年例是粤西地区（茂名、湛江等地）极具地方特色的传统民俗活动，
 “年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日。也可理解为“年年有例”，即每年都有这样的庆祝活动，具有深厚的文化底蕴和丰富的活动形式。2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录。
 <br>The Nianli is a traditional folk activity with strong local characteristics in the Western Guangdong region (including Maoming, Zhanjiang, and other places).
