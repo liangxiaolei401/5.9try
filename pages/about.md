@@ -75,7 +75,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 年例期间，村里会集体筹钱邀请戏班，或者由好心人捐款邀请戏班。戏台会建在庙前的空地上，一般会有好几个晚上进行粤剧演出，村民们拿好凳子在戏台前观看。这不仅是娱乐大众，也传承了粤剧文化，营造出浓厚的节日氛围。
 <br>During the Nianli, the villagers will collectively raise money to invite an opera troupe, or it will be funded by generous donations from kind-hearted people. The stage is usually built on the open space in front of the temple, and there are generally several nights of Yueju (Cantonese opera) performances. Villagers bring their stools to sit in front of the stage and watch the shows. It is not only a way to entertain people but also a means to preserve the Yueju culture and create a festive atmosphere.
 
-#### 歌舞会 Song and Dance Party
+#### 歌舞会 Song and Dance Performance
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/dd5746b5335a64332096445ef012a21415d8fba6/objects/n2025051502.jpg
 ?raw=true" alt="歌舞会" id="n2025051502" style="width: 50%;"><br>2025年岭门镇山后村年例歌舞海报<br>2025 Nianli Song and Dance Performance Poster for Shanhou Village, Lingmen Zhen
