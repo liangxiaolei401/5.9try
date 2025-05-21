@@ -45,7 +45,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
   <video controls style="width: 50%;">
     <source src="https://github.com/liangxiaolei401/5.9try/blob/77eb2d53177ecfb7892c26bc17d08cff59bb39a6/objects/n1501.mp4?raw=true" type="video/mp4">
     Your browser does not support the video tag.
-  </video><br>2025年小良年例走公<br>The 2025 Xiaoliang Nianli "Zou Gong"
+  </video><br>2025年小良年例走公<br>The 2025 Nianli "Zou Gong" in Xiaoliang Zhen
 </div><br>
 年例期间，人们会抬着神像进行奔跑，寓意着祈求神灵保佑平安、驱邪避灾，同时也增添了节日的热闹氛围。
 <br>During the Nianli, people will carry the statues of deities run quickly. This is called "Zou Gong" in local dialect. It symbolizes the wish for the deities' blessings for safety and protection from evil, and it also adds to the festive atmosphere.
@@ -78,7 +78,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 #### 歌舞会 Song and Dance Party
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/dd5746b5335a64332096445ef012a21415d8fba6/objects/n2025051502.jpg
-?raw=true" alt="歌舞会" id="n2025051502" style="width: 50%;"><br>2025年岭门镇山后村年例歌舞海报<br>2025 Nianli Song and Dance Performance Poster for Shanhou Village, Lingmen Town
+?raw=true" alt="歌舞会" id="n2025051502" style="width: 50%;"><br>2025年岭门镇山后村年例歌舞海报<br>2025 Nianli Song and Dance Performance Poster for Shanhou Village, Lingmen Zhen
 </div><br>
 年例期间的歌舞会有歌曲演唱、舞蹈表演等，有些地方会有杂技演出。电白地区会邀请当地有名的网红进行表演，广东吴勇，观珠妹等人经常在各地参加年例的歌舞会演唱，村民们会在台前观看，丰富节日生活，营造欢乐祥和的氛围。
 <br>During the Nianli, the song and dance parties feature singing, dancing, and in some places, acrobatics. In the Dianbai area, well-known local internet celebrities are often invited to perform. Guangdong Wuyong and Guanzhu Mei frequently participate in the song and dance parties across different places. Villagers gather in front of the stage to watch the performances, which enriches the festive life and creates a joyful and harmonious atmosphere.
