@@ -26,7 +26,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
     <source src="https://github.com/liangxiaolei401/5.9try/blob/4bd266de179bebb4a25fc4bc42d34b167f9fedbc/objects/n1701.mp4?raw=true" type="video/mp4">
     Your browser does not support the video tag.
   </video><br>
-  <a href="https://v.douyin.com/PHbRuOmk90Q/ SyT:/ 03/27 o@Q.KW " target="_blank">电白陈村游神</a><br><a href="https://v.douyin.com/PHbRuOmk90Q/ SyT:/ 03/27 o@Q.KW " target="_blank">The Deity Procession in Chencun, Dianbai</a>
+  <a href="https://v.douyin.com/PHbRuOmk90Q/ SyT:/ 03/27 o@Q.KW " target="_blank">电白陈村游神</a><br><a href="https://v.douyin.com/PHbRuOmk90Q/ SyT:/ 03/27 o@Q.KW " target="_blank">The Deity Procession in Chen Village, Dianbai</a>
 </div><br>
 <a href="https://baike.baidu.com/item/%E5%B9%B4%E4%BE%8B/481915" target="_blank">年例</a>是粤西地区（茂名、湛江等地）极具地方特色的传统民俗活动，
 “年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日。也可理解为“年年有例”，即每年都有这样的庆祝活动，具有深厚的文化底蕴和丰富的活动形式。2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录。
@@ -36,7 +36,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 ### 习俗 Customs
 #### 宴席 Banquet
 <div style="text-align: center;">
-  <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;"><br>2024年霞洞圩年例宴席<br>The 2024 Xiadong Xu Nianli Banquet</div><br>
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/a1e4dcdd0b2fa0ef28d054c9e07d61c187491561/objects/n801.jpg?raw=true" alt="宴席" id="n801" style="width: 50%;"><br>2024年霞洞圩年例宴席<br>The 2024 Nianli Banquet in Xiadong Xu </div><br>
 年例期间，主人会邀请自己的亲朋好友进行集体聚餐。宴席上菜品丰富多样，有鸡、鸭、鱼、肉等，寓意着丰盛和团圆。人们围坐在一起，共享美食。宴席是年例期间人们交流感情的重要方式。
 <br>During the Nianli, hosts invite their relatives and friends for a collective feast. The banquet is filled with a wide variety of delicious dishes, including chicken, duck, fish, and meat, which symbolize abundance and togetherness. People sit together, sharing the food and enjoying each other’s company. The banquet is an important way for people to bond and exchange feelings during the Nianli.
 
@@ -54,7 +54,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;"><br>
   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">2023年七迳镇黎屋村游神</a><br>
-   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">The 2023 Deity Procession in Liwu Village, Qijin Town</a>
+   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">The 2023 Deity Procession in Liwu Village, Qijin Zhen “</a>
 </div><br>
 年例期间，人们将神像从庙里请出，抬着在村中或街道上游行，沿途燃放鞭炮、奏乐。这是一种祈福仪式，寓意祈求神灵庇佑、保佑平安和丰收，也体现了人们对神灵的敬仰和对传统文化的传承。
 <br>During the Nianli, people take the statues of deities out of the temple and carry them in a procession through the village or streets, setting off firecrackers and playing music along the way. This is a blessing ceremony called "You Shen" in local dialect, symbolizing the wish for the deities' protection, safety, and a good harvest. It also reflects people's reverence for the deities and the inheritance of traditional culture.
@@ -63,7 +63,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/006dea2fe774b25a9749f60ecc786505624f4b12/objects/n105.jpg?raw=true" alt="抢炮头" id="n105" style="width: 50%;"><br>
   <a href="https://v.douyin.com/UgB-z4y7OpM/ 01/27 N@j.cA lpD:/" target="_blank">2025年马踏党村年例接炮头</a><br>
-   <a href="https://v.douyin.com/UgB-z4y7OpM/ 01/27 N@j.cA lpD:/" target="_blank">The 2025 Nianli "Jie Paotou" in Mata Dang Village</a>
+   <a href="https://v.douyin.com/UgB-z4y7OpM/ 01/27 N@j.cA lpD:/" target="_blank">The 2025 Nianli "Jie Paotou" in Dang Village, Mata Zhen</a>
 </div><br>
 年例期间，人们会集中在一个地方，中间放鞭炮，点燃的鞭炮会飞起来，人们会争先恐后争抢炮头，寓意着抢到好运、添丁发财。
 <br>During the Nianli, people gather in one place with firecrackers placed in the center. Once lit, the firecrackers will fly up, and people will rush to grab the "Paotou" (firecracker heads). It symbolizes seizing good fortune, having more children, and getting rich.
