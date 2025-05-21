@@ -5,10 +5,3 @@ custom-foot: js/map-js.html
 ---
 
 <div id="map"></div>
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<div id="map" style="width: 100%; height: 600px;"></div>
-var map = L.map('map').setView([21.50, 110.90], 13); // 设置中心坐标和缩放级别
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-}).addTo(map);
