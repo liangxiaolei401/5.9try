@@ -14,5 +14,7 @@ custom-foot: js/map-js.html
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
-  // 如果需要添加标记或其他功能，可以在这里继续添加代码
+  // 如果需要在电白区添加标记，可以使用以下代码
+  var marker = L.marker([21.52, 111.00]).addTo(map); // 在电白区添加标记
+  marker.bindPopup('<b>电白区</b><br>广东省茂名市电白区').openPopup(); // 添加弹出框
 </script>
