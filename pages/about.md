@@ -54,7 +54,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;"><br>
   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">2023年七迳镇黎屋村游神</a><br>
-   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">The 2023 Deity Procession in Liwu Village, Qijin Zhen “</a>
+   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">The 2023 Deity Procession in Liwu Village, Qijin Zhen </a>
 </div><br>
 年例期间，人们将神像从庙里请出，抬着在村中或街道上游行，沿途燃放鞭炮、奏乐。这是一种祈福仪式，寓意祈求神灵庇佑、保佑平安和丰收，也体现了人们对神灵的敬仰和对传统文化的传承。
 <br>During the Nianli, people take the statues of deities out of the temple and carry them in a procession through the village or streets, setting off firecrackers and playing music along the way. This is a blessing ceremony called "You Shen" in local dialect, symbolizing the wish for the deities' protection, safety, and a good harvest. It also reflects people's reverence for the deities and the inheritance of traditional culture.
