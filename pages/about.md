@@ -81,7 +81,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 ?raw=true" alt="歌舞会" id="n2025051502" style="width: 50%;"><br>2025年岭门镇山后村年例歌舞海报<br>2025 Nianli Song and Dance Performance Poster for Shanhou Village, Lingmen Zhen
 </div><br>
 年例期间的歌舞会有歌曲演唱、舞蹈表演等，有些地方会有杂技演出。电白地区会邀请当地有名的网红进行表演，广东吴勇，观珠妹等人经常在各地参加年例的歌舞会演唱，村民们会在台前观看，丰富节日生活，营造欢乐祥和的氛围。
-<br>During the Nianli, the song and dance parties feature singing, dancing, and in some places, acrobatics. In the Dianbai area, well-known local internet celebrities are often invited to perform. Guangdong Wuyong and Guanzhu Mei frequently participate in the song and dance parties across different places. Villagers gather in front of the stage to watch the performances, which enriches the festive life and creates a joyful and harmonious atmosphere.
+<br>During the Nianli, the song and dance performance feature singing, dancing, and in some places, acrobatics. In the Dianbai area, well-known local internet celebrities are often invited to perform. Guangdong Wuyong and Guanzhu Mei frequently participate in the song and dance parties across different places. Villagers gather in front of the stage to watch the performances, which enriches the festive life and creates a joyful and harmonious atmosphere.
 
 ### 语言环境Linguistic Environment
 电白主要有三大方言，分别是黎话、海话和涯话。在电白的西部，以黎话为主，以霞洞镇为代表；在东部，以海话为主，以电城镇为代表；在北部，以涯话为主，以沙琅镇为代表。电白人普遍认为这三大方言是当地最具代表性的语言。电白区年例中人们大多讲海话和黎话，这些活动中有关视频的语言也是以海话和黎话为主。<br>
