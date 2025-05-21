@@ -50,7 +50,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 年例期间，人们会抬着神像进行奔跑，寓意着祈求神灵保佑平安、驱邪避灾，同时也增添了节日的热闹氛围。
 <br>During the Nianli, people will carry the statues of deities run quickly. This is called "Zou Gong" in local dialect. It symbolizes the wish for the deities' blessings for safety and protection from evil, and it also adds to the festive atmosphere.
 
-#### 游神 You Sheng
+#### <a href="https://liangxiaolei401.github.io/dianbai-nianli-dh-project/browse.html#%E6%B8%B8%E7%A5%9E%20Deity%20Procession">游神 Deity Procession</a>的信息可以点击链接查看。</p>
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;"><br>
   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">2023年七迳镇黎屋村游神</a><br>
