@@ -30,7 +30,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 </div><br>
 <a href="https://baike.baidu.com/item/%E5%B9%B4%E4%BE%8B/481915" target="_blank">年例</a>是粤西地区（茂名、湛江等地）极具地方特色的传统民俗活动，
 “年例”是粤西地区（包括广东的茂名、湛江等地）一种独特的传统节日。也可理解为“年年有例”，即每年都有这样的庆祝活动，具有深厚的文化底蕴和丰富的活动形式。2012年2月21日，“茂名年例”被广东省人民政府批准并公布为广东省第四批省级非物质文化遗产名录。
-<br>The<a href="https://baike.baidu.com/item/%E5%B9%B4%E4%BE%8B/481915" target="_blank">Nianli</a> is a traditional folk activity with strong local characteristics in the Western Guangdong region (including Maoming, Zhanjiang, and other places).
+<br>The <a href="https://baike.baidu.com/item/%E5%B9%B4%E4%BE%8B/481915" target="_blank">Nianli</a> is a traditional folk activity with strong local characteristics in the Western Guangdong region (including Maoming, Zhanjiang, and other places).
 “Nianli” is a unique traditional festival in the Western Guangdong region (including Maoming, Zhanjiang, and other places in Guangdong). It can also be understood as “a celebration held every year,” which means there is such a celebration every year. It has a profound cultural connotation and rich forms of activities. On February 21, 2012, “Maoming Nianli” was approved by the People’s Government of Guangdong Province and announced as the fourth batch of provincial intangible cultural heritage in Guangdong Province.
 
 ### 习俗 Customs
@@ -52,14 +52,18 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 
 #### 游神 You Sheng
 <div style="text-align: center;">
-  <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;"><br><a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO "_blank">2023年七迳镇黎屋村游神</a><br><a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO "_blank">The 2023 Deity Procession in Liwu Village, Qijin Town</a>
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/d5b4bc3b2db06f4037978fed259e6fc2ff2d6c08/objects/n1902.jpg?raw=true" alt="游神" id="n1902" style="width: 50%;"><br>
+  <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">2023年七迳镇黎屋村游神</a><br>
+   <a href="https://v.douyin.com/4QlxNs82I8s/ goQ:/ 11/13 d@A.gO" target="_blank">The 2023 Deity Procession in Liwu Village, Qijin Town</a>
 </div><br>
 年例期间，人们将神像从庙里请出，抬着在村中或街道上游行，沿途燃放鞭炮、奏乐。这是一种祈福仪式，寓意祈求神灵庇佑、保佑平安和丰收，也体现了人们对神灵的敬仰和对传统文化的传承。
 <br>During the Nianli, people take the statues of deities out of the temple and carry them in a procession through the village or streets, setting off firecrackers and playing music along the way. This is a blessing ceremony called "You Shen" in local dialect, symbolizing the wish for the deities' protection, safety, and a good harvest. It also reflects people's reverence for the deities and the inheritance of traditional culture.
 
 #### 抢炮头 Qiang Paotou
 <div style="text-align: center;">
-  <img src="https://github.com/liangxiaolei401/5.9try/blob/006dea2fe774b25a9749f60ecc786505624f4b12/objects/n105.jpg?raw=true" alt="抢炮头" id="n105" style="width: 50%;"><br><a href="https://v.douyin.com/UgB-z4y7OpM/ 01/27 N@j.cA lpD:/"_blank">2025年马踏党村年例接炮头</a><br><a href="https://v.douyin.com/UgB-z4y7OpM/ 01/27 N@j.cA lpD:/"_blank">The 2025 Nianli "Jie Paotou" in Mata Dang Village</a>
+  <img src="https://github.com/liangxiaolei401/5.9try/blob/006dea2fe774b25a9749f60ecc786505624f4b12/objects/n105.jpg?raw=true" alt="抢炮头" id="n105" style="width: 50%;"><br>
+  <a href="https://v.douyin.com/UgB-z4y7OpM/ 01/27 N@j.cA lpD:/" target="_blank">2025年马踏党村年例接炮头</a><br>
+   <a href="https://v.douyin.com/UgB-z4y7OpM/ 01/27 N@j.cA lpD:/" target="_blank">The 2025 Nianli "Jie Paotou" in Mata Dang Village</a>
 </div><br>
 年例期间，人们会集中在一个地方，中间放鞭炮，点燃的鞭炮会飞起来，人们会争先恐后争抢炮头，寓意着抢到好运、添丁发财。
 <br>During the Nianli, people gather in one place with firecrackers placed in the center. Once lit, the firecrackers will fly up, and people will rush to grab the "Paotou" (firecracker heads). It symbolizes seizing good fortune, having more children, and getting rich.
@@ -74,7 +78,7 @@ As of 2019, Dianbai District has jurisdiction over the following areas: Nanhai S
 #### 歌舞会 Song and Dance Party
 <div style="text-align: center;">
   <img src="https://github.com/liangxiaolei401/5.9try/blob/dd5746b5335a64332096445ef012a21415d8fba6/objects/n2025051502.jpg
-?raw=true" alt="歌舞会" id="n2025051502" style="width: 50%;"><br>2025年岭门镇山后村年例歌舞海报翻译<br>2025 Nianli Song and Dance Performance Poster for Shanhou Village, Lingmen Town
+?raw=true" alt="歌舞会" id="n2025051502" style="width: 50%;"><br>2025年岭门镇山后村年例歌舞海报<br>2025 Nianli Song and Dance Performance Poster for Shanhou Village, Lingmen Town
 </div><br>
 年例期间的歌舞会有歌曲演唱、舞蹈表演等，有些地方会有杂技演出。电白地区会邀请当地有名的网红进行表演，广东吴勇，观珠妹等人经常在各地参加年例的歌舞会演唱，村民们会在台前观看，丰富节日生活，营造欢乐祥和的氛围。
 <br>During the Nianli, the song and dance parties feature singing, dancing, and in some places, acrobatics. In the Dianbai area, well-known local internet celebrities are often invited to perform. Guangdong Wuyong and Guanzhu Mei frequently participate in the song and dance parties across different places. Villagers gather in front of the stage to watch the performances, which enriches the festive life and creates a joyful and harmonious atmosphere.
